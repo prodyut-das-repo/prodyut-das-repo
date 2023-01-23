@@ -10,9 +10,6 @@ Find me on
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 :hammer_and_wrench: Languages and Tools :
 <div>
@@ -36,4 +33,10 @@ Find me on
 <br>
 :fire: My Stats :
 <br><br/>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=prodyut-das-repo&theme=dark&mode=weekly"/></a>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=prodyut-das-repo&theme=dark&mode=weekly"/></a>
+</div>
+<br><br>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
