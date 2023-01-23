@@ -2,7 +2,8 @@
   <img src="https://media0.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611adfa2bdd8a61ddf29fe562cd650839dd930990ce&rid=giphy.gif&ct=g" width="200"/>
 </div>
 :man_technologist: About Me :
-I am a Frontend Developer from India. <br>
+I am a Frontend Developer from India. 
+<br>
 Find me on
 <div id="badges">
   <a target="_blank" href="https://www.linkedin.com/in/prodyut-das">
@@ -32,3 +33,7 @@ Find me on
   <img src="https://asset.brandfetch.io/idIq_kF0rb/idGSuvAIy3.png" title="Cypress" alt="Cypress" width="70" height="40"/>&nbsp;
   <img src="https://ibsintelligence.com/wp-content/uploads/2020/03/backbase.png" title="Backbase 6.0" alt="Backbase 6.0" width="40" height="40"/>&nbsp;
 </div>
+<br>
+:fire: My Stats :
+<br><br/>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=prodyut-das-repo&theme=dark&mode=weekly"/></a>
