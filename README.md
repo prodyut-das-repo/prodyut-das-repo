@@ -14,7 +14,7 @@ Find me on
 </div>Also you can
 <a target='_blank' href='https://prodyut-das-repo.github.io/profile'>Visit my portfolio</a>
 <br><br>
-:hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and tools I worked with :<br><br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
