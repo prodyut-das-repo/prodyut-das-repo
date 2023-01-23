@@ -1,16 +1,18 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611adfa2bdd8a61ddf29fe562cd650839dd930990ce&rid=giphy.gif&ct=g" width="200"/>
 </div>
-:man_technologist: About Me :
-I am a Frontend Developer from India. 
-<br>
+:man_technologist: About Me :<br>
+Frontend Developer from India. <br>
+Software Engineer II at Cisco <br>
+4+ years of experience
+<br><br>
 Find me on
 <div id="badges">
   <a target="_blank" href="https://www.linkedin.com/in/prodyut-das">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
+<br>
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
