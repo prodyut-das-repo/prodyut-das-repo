@@ -11,8 +11,9 @@ Find me on
   <a target="_blank" href="https://www.linkedin.com/in/prodyut-das">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-<br>
+</div>Also you can
+<a target='_blank' href='https://prodyut-das-repo.github.io/profile'>Visit my portfolio</a>
+<br><br>
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
