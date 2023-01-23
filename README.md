@@ -37,7 +37,7 @@ Find me on
   <img src="https://ibsintelligence.com/wp-content/uploads/2020/03/backbase.png" title="Backbase 6.0" alt="Backbase 6.0" width="40" height="40"/>&nbsp;
 </div>
 <br>
-:fire: My Stats :
+:fire: My Stats : [not accurate, messed up with email in the past commits]
 <br><br/>
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=prodyut-das-repo&theme=dark&mode=weekly"/></a>
