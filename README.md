@@ -40,7 +40,7 @@ Find me on
 :fire: My Stats :
 <br><br/>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=prodyut-das-repo&theme=dark&mode=weekly"/></a>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=prodyut-das-repo&theme=dark"/></a>
 </div>
 <br><br>
 <div align="center">
